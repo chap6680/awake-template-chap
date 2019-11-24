@@ -71,5 +71,14 @@
     "rimraf": "^2.6.3",
     "sass-loader": "^7.1.0",
     "sharp": "^0.22.1"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chap6680/awake-template-chap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chap6680/awake-template-chap/issues"
+  },
+  "homepage": "https://github.com/chap6680/awake-template-chap#readme"
 }
