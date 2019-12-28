@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Samuelson Trips',
-  tagline: 'Samuelson Family Vacations',
+  tagline: 'Lodging Spots Available',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
