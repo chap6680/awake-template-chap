@@ -16,7 +16,7 @@
       <strong>Length:</strong> {{ author }} |
     </span>
     <span v-if="date" class="date-wrapper">
-      <strong>Available on:</strong> {{ datePretty }}
+      <br /><strong>Available on:</strong> {{ datePretty }}
     </span>
   </generic-card>
 </template>
