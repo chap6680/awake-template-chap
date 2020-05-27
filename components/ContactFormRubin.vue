@@ -50,7 +50,7 @@
     </div>
     <!-- Subject -->
     <div class="field">
-      <label class="label is-medium">Subject</label>
+      <label class="label is-medium">Question</label>
       <div class="control has-icons-left">
         <input
           class="input is-medium"
