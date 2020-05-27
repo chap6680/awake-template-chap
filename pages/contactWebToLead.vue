@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Example Contact Page"
+      subtitle="Web to Lead Example"
       image="/uploads/rubinCovid.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -18,9 +18,9 @@
               </p>
               <figure class="image is-1by1 ">
                 <opti-image
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/rubinmark.jpg').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/rubinmark.jpg').srcSet
                   "
                 />
               </figure>
@@ -43,13 +43,6 @@ COVID-19: FASB Proposes Delay For Leases And Revenue Recognition Standards For P
             </article>
           </div>
         </div>
-      </template>
-      <template v-slot:sidebar>
-        <h3 class="subtitle is-4">
-          Latest Posts
-        </h3>
-        <!-- Latest Posts -->
-        <posts-grid :per-row="1" :number="2" />
       </template>
     </main-section>
   </div>
