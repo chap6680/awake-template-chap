@@ -8,7 +8,7 @@
     <div class="field">
       <label class="label is-medium">First Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="email" name="first_name" placeholder="John" />
+        <input class="input is-medium" type="text" name="first_name" placeholder="John" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -17,7 +17,7 @@
         <div class="field">
       <label class="label is-medium">Last Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="email" name="last_name" placeholder="Smith" />
+        <input class="input is-medium" type="text" name="last_name" placeholder="Smith" />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -60,7 +60,7 @@
         <input
           id="00N5w00000QFk2I"
           class="input is-medium"
-          type="email"
+          type="text"
           name="00N5w00000QFk2I"
           placeholder="Brief Summary"
         />
