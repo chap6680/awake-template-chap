@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Web to Lead Example"
+      subtitle="Web to Case Example"
       image="/uploads/rubinCovid.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
