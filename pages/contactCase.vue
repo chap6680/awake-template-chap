@@ -48,7 +48,7 @@ COVID-19: FASB Proposes Delay For Leases And Revenue Recognition Standards For P
   </div>
 </template>
 <script>
-import ContactForm from '~/components/ContactFormLead'
+import ContactForm from '~/components/ContactFormCase'
 export default {
   head() {
     return {
